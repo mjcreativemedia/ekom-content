@@ -16,27 +16,45 @@ lookup = pd.read_csv(lookup_path) if lookup_path.exists() else pd.DataFrame()
 
 # Print summaries
 print("\n🧭 Lessons")
-print(lessons[["title", "slug", "references", "related-lessons"]].head())
+print(
+    lessons[
+        [
+            "title",
+            "Slug",
+            "references (multi‑ref → Reference Terms)",
+            "related‑lessons (multi‑ref → Lessons)",
+        ]
+    ].head()
+)
 
 print("\n📚 Reference Terms")
-print(reference_terms[["name", "slug", "category (single‑ref → Categories)", "related Lessons"]].head())
+print(
+    reference_terms[
+        [
+            "name",
+            "slug",
+            "category (single‑ref → Categories)",
+            "related Lessons (multi ref -> Lessons)",
+        ]
+    ].head()
+)
 
 print("\n🎯 Categories")
 print(categories[["name", "slug"]].head())
 
 print("\n🎓 Courses")
-print(courses[["name", "slug"]].head())
+print(courses[["Name", "Slug"]].head())
 
 # Optional: validate slugs used in relationships
 def validate_slugs():
     missing_refs = []
     known_refs = set(reference_terms["name"])
     for idx, row in lessons.iterrows():
-        refs = str(row.get("references", "")).split(",")
+        refs = str(row.get("references (multi‑ref → Reference Terms)", "")).split(",")
         for ref in refs:
             ref = ref.strip()
             if ref and ref not in known_refs:
-                missing_refs.append((row["slug"], ref))
+                missing_refs.append((row["Slug"], ref))
     if missing_refs:
         print("\n🚨 Missing Reference Terms:")
         for lesson, ref in missing_refs:
