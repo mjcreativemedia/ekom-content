@@ -37,7 +37,7 @@ Each file maps to a Webflow CMS Collection:
 ```
 ekom-content/
 ├── lessons.csv                  # Educational modules (with links to reference terms)
-├── reference_terms.csv          # Glossary entries (with related lesson back-links)
+├── reference-terms.csv          # Glossary entries (with related lesson back-links)
 ├── categories.csv               # Thematic groupings for glossary navigation
 ├── courses.csv                  # Course wrappers (e.g., “The PDP Field Guide”)
 ├── lookup.csv                   # Token → URL map for hyperlink replacement
@@ -114,7 +114,7 @@ Use this for search-and-replace or Apps Script automation to inject `<a>` tags d
 
 ## ✅ Setup Checklist
 
-1. Fill out each sheet: `lessons.csv`, `reference_terms.csv`, `categories.csv`, `courses.csv`
+1. Fill out each sheet: `lessons.csv`, `reference-terms.csv`, `categories.csv`, `courses.csv`
 2. Export each as CSV from Google Sheets
 3. Import into Webflow CMS collections **in this order**:
 
