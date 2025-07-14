@@ -1,0 +1,15 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+.venv/
+venv/
