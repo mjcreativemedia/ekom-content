@@ -138,6 +138,12 @@ Use this to:
 * Print your lookup table
 * Scaffold your automation for generating canonical content
 
+Before running the script, install the Python requirements:
+
+```bash
+pip install -r requirements.txt
+```
+
 ---
 
 ## 📌 Scaling Later
