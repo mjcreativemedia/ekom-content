@@ -1,5 +1,5 @@
-Lesson ID,title,Slug,Excerpt,Course (ref),level (option),est‑read‑min (number),references (multi‑ref → Reference Terms),related‑lessons (multi‑ref → Lessons),Author (ref),Original Publish Date,Lesson Brief,Image Prompt,Image Link,Meta Desc Set?,Image Prompt,Canonical Post Content,Canonical Post Link,Shortform Post Content,Linkedin Post Link,,Carousel Content,Carousel Caption,Instagram Post Link,YouTube Short VO,YouTube Short Link,YouTube Short Description,Meme,Links Connected + Open in New tab?,WEBFLOW CMS FIELDS COMPLETE?,LIVE?
-L-A1,What Is a PDP—and Why It Still Matters,what-is-a-pdp,Define a PDP and explain its current importance.,the-pdp-field-guide,,,,,,7/14/25,,,,,,,,,,,,"Your PDP is the digital shelf—if the data’s wrong, the shelf is empty.
+Lesson ID,title,Slug,Excerpt,Course (ref),level (option),est‑read‑min (number),references (multi‑ref → Reference Terms),related‑lessons (multi‑ref → Lessons),Author (ref),Original Publish Date,Lesson Brief,Image Prompt,Image Link,Meta Desc Set?,Image Prompt 2,Canonical Post Content,Canonical Post Link,Shortform Post Content,Linkedin Post Link,Carousel Content,Carousel Caption,Instagram Post Link,YouTube Short VO,YouTube Short Link,YouTube Short Description,Meme,Links Connected + Open in New tab?,WEBFLOW CMS FIELDS COMPLETE?,LIVE?
+L-A1,What Is a PDP—and Why It Still Matters,what-is-a-pdp,Define a PDP and explain its current importance.,the-pdp-field-guide,,,,,,7/14/25,,,,,,,,,,,"Your PDP is the digital shelf—if the data’s wrong, the shelf is empty.
 
 • Search & social parse PDP schema before humans ever arrive.
 • One broken Offer can hide your SKU from Google Shopping.
@@ -7,20 +7,20 @@ L-A1,What Is a PDP—and Why It Still Matters,what-is-a-pdp,Define a PDP and exp
 • Nightly syncs + monthly validation keep decay at zero.
 
 #ecommerce #PDP #productdata",,"Think of a Product Detail Page as your product’s passport. Every platform—Google, TikTok, Meta—reads that passport before letting shoppers through. But passports expire. Prices change, schema breaks, reviews go missing. When that happens, rich results disappear and AI search ignores you. The fix? Treat the PDP as living data. Sync content from your PIM, regenerate JSON-LD every edit, and monitor errors daily. Tools like EKOM automate the rinse-and-repeat so your products stay visible everywhere—no rewrites, no surprises.",,"Learn why product-detail pages still power discovery in 2025, how schema drift kills visibility, and the simple steps to keep every SKU synced.",,TRUE,FALSE,FALSE
-L-A2,The Shift: From Content to Structure,structured-product-data,Structure product data instead of relying only on content.,the-pdp-field-guide,,,,,,7/15/25,,,,,,,,,,,,,,,,,,TRUE,FALSE,FALSE
-L-A3,What Counts as Metadata?,product-metadata-types,Identify required metadata for product discovery.,the-pdp-field-guide,,,,,Jonah Santo,7/16/25,,,,,,,,,,,,,,,,,,TRUE,FALSE,FALSE
-L-A4,Anatomy of a Healthy PDP,pdp-health-checklist,Audit PDPs against core health indicators.,the-pdp-field-guide,,,,,Jonah Santo,7/17/25,,,,,,,,,,,,,,,,,,TRUE,FALSE,FALSE
-L-A5,Common Failures That Break Visibility,fix-search-invisibility,Fix structural errors that hide products in search.,the-pdp-field-guide,,,,,Jon Ricketts,7/18/25,,,,,,,,,,,,,,,,,,TRUE,FALSE,FALSE
-L-A6,How Google Evaluates Product Pages,google-pdp-seo,Optimize PDPs for Google’s ranking criteria.,the-pdp-field-guide,,,,,Jonah Santo,7/21/25,,,,,,,,,,,,,,,,,,TRUE,FALSE,FALSE
-L-A7,"How Meta, TikTok, and AI Feeds Read PDPs",pdp-social-ai-integration,Format PDP data for Meta/TikTok/AI platform requirements.,the-pdp-field-guide,,,,,Jonah Santo,7/22/25,,,,,,,,,,,,,,,,,,TRUE,FALSE,FALSE
-L-A8,What PIMs and CMSs Actually Do,pim-vs-cms,Choose between PIM or CMS for data tasks.,the-pdp-field-guide,,,,,Jon Ricketts,7/23/25,,,,,,,,,,,,,,,,,,TRUE,FALSE,FALSE
-L-A9,Where Automation Fills the Gaps,automate-pdp-fields,Automate error-prone fields (pricing/attributes).,the-pdp-field-guide,,,,,Jonah Santo,7/24/25,,,,,,,,,,,,,,,,,,TRUE,FALSE,FALSE
-L-A10,Why Manual PDPs Break Down,manual-pdp-costs,Calculate costs of manual PDP management.,the-pdp-field-guide,,,,,Jon Ricketts,7/25/25,,,,,,,,,,,,,,,,,,TRUE,FALSE,FALSE
-L-A11,What PDP Automation Really Means,pdp-automation-workflow,Build real-time PDP automation workflows.,the-pdp-field-guide,,,,,Jonah Santo,7/28/25,,,,,,,,,,,,,,,,,,TRUE,FALSE,FALSE
-L-A12,Inside EKOM’s System (As a Case Study),ekom-automation-case-study,Apply EKOM’s automation framework to your catalog.,the-pdp-field-guide,,,,,Jon Ricketts,7/29/25,,,,,,,,,,,,,,,,,,TRUE,FALSE,FALSE
-L-A13,Creating a PDP Field Governance Plan,pdp-governance-plan,Create a PDP governance plan with validation rules.,the-pdp-field-guide,,,,,Jonah Santo,7/30/25,,,,,,,,,,,,,,,,,,TRUE,FALSE,FALSE
-L-A14,Using Keyword Signals Without Chasing Trends,pdp-keyword-strategy,Use keyword trends in core fields without breaking structure.,the-pdp-field-guide,,,,,Jon Ricketts,7/31/25,,,,,,,,,,,,,,,,,,TRUE,FALSE,FALSE
-L-A15,Validating PDP Health Across Platforms,cross-platform-pdp-audit,"Check PDP health on Google, TikTok, and Meta.",the-pdp-field-guide,,,,,Jonah Santo,8/1/25,,,,,,,,,,,,,,,,,,FALSE,FALSE,FALSE
-L-A16,Quarterly PDP Refresh Cadence,pdp-refresh-schedule,Schedule quarterly PDP refreshes for accuracy.,the-pdp-field-guide,,,,,Jonah Santo,8/2/25,,,,,,,,,,,,,,,,,,FALSE,FALSE,FALSE
-L-A17,Avoiding Copy/Paste SEO,structured-data-seo,Avoid duplicate content penalties with structured data.,the-pdp-field-guide,,,,,Jonah Santo,8/4/25,,,,,,,,,,,,,,,,,,FALSE,FALSE,FALSE
-L-A18,Running PDP Ops for Multi-Brand Catalogs,multi-brand-pdp-management,Manage PDP rules for multiple brands.,the-pdp-field-guide,,,,,Jon Ricketts,8/5/25,,,,,,,,,,,,,,,,,,FALSE,FALSE,FALSE
+L-A2,The Shift: From Content to Structure,structured-product-data,Structure product data instead of relying only on content.,the-pdp-field-guide,,,,,,7/15/25,,,,,,,,,,,,,,,,,TRUE,FALSE,FALSE
+L-A3,What Counts as Metadata?,product-metadata-types,Identify required metadata for product discovery.,the-pdp-field-guide,,,,,Jonah Santo,7/16/25,,,,,,,,,,,,,,,,,TRUE,FALSE,FALSE
+L-A4,Anatomy of a Healthy PDP,pdp-health-checklist,Audit PDPs against core health indicators.,the-pdp-field-guide,,,,,Jonah Santo,7/17/25,,,,,,,,,,,,,,,,,TRUE,FALSE,FALSE
+L-A5,Common Failures That Break Visibility,fix-search-invisibility,Fix structural errors that hide products in search.,the-pdp-field-guide,,,,,Jon Ricketts,7/18/25,,,,,,,,,,,,,,,,,TRUE,FALSE,FALSE
+L-A6,How Google Evaluates Product Pages,google-pdp-seo,Optimize PDPs for Google’s ranking criteria.,the-pdp-field-guide,,,,,Jonah Santo,7/21/25,,,,,,,,,,,,,,,,,TRUE,FALSE,FALSE
+L-A7,"How Meta, TikTok, and AI Feeds Read PDPs",pdp-social-ai-integration,Format PDP data for Meta/TikTok/AI platform requirements.,the-pdp-field-guide,,,,,Jonah Santo,7/22/25,,,,,,,,,,,,,,,,,TRUE,FALSE,FALSE
+L-A8,What PIMs and CMSs Actually Do,pim-vs-cms,Choose between PIM or CMS for data tasks.,the-pdp-field-guide,,,,,Jon Ricketts,7/23/25,,,,,,,,,,,,,,,,,TRUE,FALSE,FALSE
+L-A9,Where Automation Fills the Gaps,automate-pdp-fields,Automate error-prone fields (pricing/attributes).,the-pdp-field-guide,,,,,Jonah Santo,7/24/25,,,,,,,,,,,,,,,,,TRUE,FALSE,FALSE
+L-A10,Why Manual PDPs Break Down,manual-pdp-costs,Calculate costs of manual PDP management.,the-pdp-field-guide,,,,,Jon Ricketts,7/25/25,,,,,,,,,,,,,,,,,TRUE,FALSE,FALSE
+L-A11,What PDP Automation Really Means,pdp-automation-workflow,Build real-time PDP automation workflows.,the-pdp-field-guide,,,,,Jonah Santo,7/28/25,,,,,,,,,,,,,,,,,TRUE,FALSE,FALSE
+L-A12,Inside EKOM’s System (As a Case Study),ekom-automation-case-study,Apply EKOM’s automation framework to your catalog.,the-pdp-field-guide,,,,,Jon Ricketts,7/29/25,,,,,,,,,,,,,,,,,TRUE,FALSE,FALSE
+L-A13,Creating a PDP Field Governance Plan,pdp-governance-plan,Create a PDP governance plan with validation rules.,the-pdp-field-guide,,,,,Jonah Santo,7/30/25,,,,,,,,,,,,,,,,,TRUE,FALSE,FALSE
+L-A14,Using Keyword Signals Without Chasing Trends,pdp-keyword-strategy,Use keyword trends in core fields without breaking structure.,the-pdp-field-guide,,,,,Jon Ricketts,7/31/25,,,,,,,,,,,,,,,,,TRUE,FALSE,FALSE
+L-A15,Validating PDP Health Across Platforms,cross-platform-pdp-audit,"Check PDP health on Google, TikTok, and Meta.",the-pdp-field-guide,,,,,Jonah Santo,8/1/25,,,,,,,,,,,,,,,,,FALSE,FALSE,FALSE
+L-A16,Quarterly PDP Refresh Cadence,pdp-refresh-schedule,Schedule quarterly PDP refreshes for accuracy.,the-pdp-field-guide,,,,,Jonah Santo,8/2/25,,,,,,,,,,,,,,,,,FALSE,FALSE,FALSE
+L-A17,Avoiding Copy/Paste SEO,structured-data-seo,Avoid duplicate content penalties with structured data.,the-pdp-field-guide,,,,,Jonah Santo,8/4/25,,,,,,,,,,,,,,,,,FALSE,FALSE,FALSE
+L-A18,Running PDP Ops for Multi-Brand Catalogs,multi-brand-pdp-management,Manage PDP rules for multiple brands.,the-pdp-field-guide,,,,,Jon Ricketts,8/5/25,,,,,,,,,,,,,,,,,FALSE,FALSE,FALSE
