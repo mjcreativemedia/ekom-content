@@ -1,0 +1,16 @@
+name,slug,blurb
+Structured Product Data,structured-product-data,Organising product information in standardised formats
+Data Quality,data-quality,Ensuring accuracy and consistency in product data
+Taxonomy,taxonomy,Classifying products so shoppers (and algorithms) can find them
+PIM Systems,pim-systems,Platforms that store and syndicate product data
+Platform Requirements,platform-requirements,"Meeting feed, ad, and SEO specs across Google, Meta, TikTok, and more"
+Governance,governance,"Rules, workflows, and checks to maintain PDP integrity at scale"
+Automation,automation,"Reducing manual work with smart syncing, validation, and enrichment"
+Metadata Strategy,metadata-strategy,"Optimising what metadata you collect, where it lives, and how it gets used"
+AI Discovery,ai-discovery,Preparing PDPs for large model inputs and AI-powered search
+PDP Fundamentals,pdp-fundamentals,Core concepts behind what a Product Detail Page is and why it matters
+PDP Health,pdp-health,"Tracking the performance, completeness, and structure of product pages"
+Field-Level Optimization,field-level-optimization,"Improving accuracy and impact of individual PDP fields like title, price, and availability"
+Cross-Platform Sync,cross-platform-sync,"Keeping data consistent across feeds, channels, and marketplaces"
+Operational Efficiency,operational-efficiency,Streamlining team workflows and reducing manual PDP management tasks
+Multi-Brand Governance,multi-brand-governance,Managing PDPs and metadata rules across a multi-brand catalog
