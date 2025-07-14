@@ -6,7 +6,7 @@ DATA_DIR = Path(__file__).parent
 
 # Load CSVs
 lessons = pd.read_csv(DATA_DIR / "lessons.csv")
-reference_terms = pd.read_csv(DATA_DIR / "reference_terms.csv")
+reference_terms = pd.read_csv(DATA_DIR / "reference-terms.csv")
 categories = pd.read_csv(DATA_DIR / "categories.csv")
 courses = pd.read_csv(DATA_DIR / "courses.csv")
 
